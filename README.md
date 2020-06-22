@@ -5,3 +5,4 @@ Sweetviz is an open source Python library that generates beautiful, high-density
 
 ![Sweetviz](https://github.com/ayushkesh/Sweetviz-EDA-LoanApproval/blob/master/sweetviz.PNG)
 
+• Please do ⭐ the repository, if it helped you in anyway.
